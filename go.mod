@@ -1,4 +1,4 @@
-module github.com/4406arthur/webhooks
+module github.com/4406arthur/webhooks/v5
 
 go 1.15
 
